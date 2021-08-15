@@ -1,21 +1,21 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a target="_blank" href="https://discord.gg/4WNcxsQ3">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Abdullah's Discord" width="22px" src="https://user-images.githubusercontent.com/57964315/129474546-358b6bf4-a008-4fbe-81f5-d33e17c9ed7b.png" />
 </a>
 <a target="_blank" href="https://twitter.com/abdullahmia71">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Abdullah Mia | Twitter" width="22px" src="https://user-images.githubusercontent.com/57964315/129474562-d73a40ce-0149-4e81-b8ee-a7bed69bd9be.png" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/darknoob/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Abdullah's LinkdeIN" width="22px" src="https://user-images.githubusercontent.com/57964315/129474576-df3c66b3-008d-4a0f-952c-d70ce3b89cd3.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/abirislam1971/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Abdullah's Instagram" width="22px" src="https://user-images.githubusercontent.com/57964315/129474592-fa11bd0b-28e9-419c-9819-16825c93cdb5.png" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm [Abdullah Mia](https://twitter.com/abdullahmia71), a Full Stack Web Developer 🚀 from Bangladesh, currently, I'm a Community Team Member 🙍🏽‍♂️ [BlackSlash Programmer](https://www.facebook.com/BackslashProgrammer.0.1), I love to creating awesome web application using Html, Css, Js, Python & Django. I'm also a Wordpress & Woocommerce Developer. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Abdullah Mia](https://abhisheknaidu.tech), a Full Stack Web Developer 🚀 from Bangladesh, currently, I'm a Community Team Member 🙍🏽‍♂️ [BlackSlash Programmer](https://www.facebook.com/BackslashProgrammer.0.1), I love to creating awesome web application using Html, Css, Js, Python & Django. I'm also a Wordpress & Woocommerce Developer. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
