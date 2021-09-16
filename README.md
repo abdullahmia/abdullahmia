@@ -27,6 +27,22 @@ Hi, I'm [Abdullah Mia](https://github.com/abdullahmia), a Full Stack Web Develop
 - 📫 How to reach me: [@Abdullah Mia](https://twitter.com/abdullahmia71);
 <!-- - 📝[Resume]() -->
 
+```javascript
+
+while (life) {
+    eat();
+    sleep();
+    code();
+    repeat();
+    if (!dead) {
+        continue;
+    } else if (dead) {
+        break;
+    }
+}
+
+```
+
 **Languages and Tools:**  
 
 <code><img height="30" src="https://user-images.githubusercontent.com/57964315/129474034-762a3cb6-ac7a-4790-bf85-6a18bc0b7a02.png"></code>
