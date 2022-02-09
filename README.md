@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm [Abdullah Mia](https://github.com/abdullahmia), a Full Stack Web Application Developer 🚀 from Bangladesh, currently, I'm a Community Team Member 🙍🏽‍♂️ [BlackSlash Programmer](https://www.facebook.com/BackslashProgrammer.0.1), I love to creating awesome web application using Html, Css, Js, Python & Django. I'm also a Wordpress & Woocommerce Developer. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Abdullah Mia](https://abdullahmia.me/), a Full Stack Web Application Developer 🚀 from Bangladesh, currently, I'm a Community Team Member 🙍🏽‍♂️ [BlackSlash Programmer](https://www.facebook.com/BackslashProgrammer.0.1), I love to creating awesome web application using Html, Css, Js, Python & Django. I'm also a Wordpress & Woocommerce Developer. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
