@@ -73,6 +73,5 @@ Git Config     36 mins         █░░░░░░░░░░░░░░░�
 
 <summary>📈 My GitHub Stats</summary>
 
-<p style="display: flex"> <img src="https://github-readme-stats.vercel.app/api?username=abdullahmia&show_icons=true&theme=gotham" alt="abdullahmia" />
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdullahmia)  
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdullahmia&show_icons=true&theme=gotham" alt="abdullahmia" />
+
