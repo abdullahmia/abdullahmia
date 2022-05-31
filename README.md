@@ -66,8 +66,8 @@ while (life) {
 ```text
 React.js       7 hrs 41 mins   ███████████████████▓░░░░░ 
 JavaScript     4 hrs 42 mins   ██████████████▓░░░░░░░░░░ 
-Next.js       3 hrs 22 mins   ████████████▒░░░░░░░░░░░░ 
-Redux   2 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░ 
+Next.js        3 hrs 22 mins   ████████████▒░░░░░░░░░░░░ 
+Redux          2 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░ 
 Git Config     36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
