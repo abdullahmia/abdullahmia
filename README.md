@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 <a target="_blank" href="https://discord.gg/4WNcxsQ3">
   <img align="left" alt="Abdullah's Discord" width="22px" src="https://user-images.githubusercontent.com/57964315/129474546-358b6bf4-a008-4fbe-81f5-d33e17c9ed7b.png" />
 </a>
