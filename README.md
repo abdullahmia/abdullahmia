@@ -22,7 +22,7 @@ Hi, I'm [Abdullah Mia](https://abdullahmia.me/), a Full Stack Web Application De
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning React.js & Next.js; 
+- 🌱 I’m currently learning Next.js; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Abdullah Mia](https://twitter.com/abdullahmia71);
 <!-- - 📝[Resume]() -->
