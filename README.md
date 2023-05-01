@@ -15,16 +15,23 @@
 <br />
 <br />
 
-Hi, I'm [Abdullah Mia](https://abdullahmia.me/), a Full Stack Web Application Developer 🚀 from Bangladesh, currently, I'm a Community Team Member 🙍🏽‍♂️ [BlackSlash Programmer](https://www.facebook.com/BackslashProgrammer.0.1), I love to creating awesome web application using Html, Css, Js, React, Next Js, Node js, Express Js, MongoDb & TypeScript.
+Hi, I'm [Abdullah Mia](https://abdullahmia.me/), A motivated individual with in-depth knowledge of development technologies and tools, seeking a position in a growth-oriented company where I can utilize my skills to the expansion of the company while having the scope to develop my own proficiency.
+
+
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Next.js; 
-- 💬 Ask me about anything, I am happy to help;
+- 👯 I’m looking to collaborate on Companies
+- 🤔 I’m looking for help with Web Developer
+- 💬 Ask me about Front-end Development
+- ⚡ Fun fact: Eat | Sleep | Code 🔁
 - 📫 How to reach me: [@Abdullah Mia](https://twitter.com/abdullahmia71);
+
+![Profile views](https://gpvc.arturio.dev/abdullahmia)
+
 <!-- - 📝[Resume]() -->
 
 ```javascript
@@ -60,7 +67,7 @@ while (life) {
 <code><img height="30" src="https://user-images.githubusercontent.com/57964315/129473342-00030f0d-3eaf-437c-86cc-a462904a125c.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/57964315/129473386-7e56e7b0-c0f5-4a90-b52e-5aaec85f4ce6.png"></code>
 
-📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 ```text
 React.js       7 hrs 41 mins   ███████████████████▓░░░░░ 
@@ -74,4 +81,3 @@ Git Config     36 mins         █░░░░░░░░░░░░░░░�
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdullahmia&show_icons=true&theme=gotham" alt="abdullahmia" />
-
