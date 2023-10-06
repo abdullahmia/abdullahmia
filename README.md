@@ -30,8 +30,6 @@ Hi, I'm [Abdullah Mia](https://abdullahmia.me/), A motivated individual with in-
 - ⚡ Fun fact: Eat | Sleep | Code 🔁
 - 📫 How to reach me: [@Abdullah Mia](https://twitter.com/abdullahmia71);
 
-![Profile views](https://gpvc.arturio.dev/abdullahmia)
-
 <!-- - 📝[Resume]() -->
 
 ```javascript
